@@ -5,7 +5,7 @@
   </b>
 </p>
 
-<hr style="height:3px;border-width:0;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ## 👨‍💻 About Me
 
@@ -17,7 +17,7 @@
 
 ##
 
-<hr style="height:3px;border-width:0;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ## 🛠️ Tech Stack
 
@@ -51,19 +51,19 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<hr style="height:3px;border-width:0;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dreamy-Jatiya&show_icons=true&theme=tokyonight&hide_border=true" alt="Dreamy's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Dreamy-Jatiya&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=false&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamy-Jatiya&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
-<hr style="height:3px;border-width:0;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ## 📊 GitHub Analytics
 
@@ -74,7 +74,7 @@
   />
 </p>
 
-<hr style="height:3px;border-width:0;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ## 💡 Engineering Philosophy
 
@@ -86,14 +86,12 @@ I believe in **learning by building**, understanding the fundamentals, and turni
 🚀 **Learn • Build • Solve • Improve**
 
 
-<hr style="height:3px;border-width:0;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
 ## 🌐 Let's Connect
 
-LinkedIn
-<a href="www.linkedin.com/in/dreamy-jatiya-9a5a453a7" target="_blank">LINKEDIN</a>
+<a href="https://www.linkedin.com/in/dreamy-jatiya-9a5a453a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-GitHub
-<a href="https://github.com/Dreamy-Jatiya" target="_blank">GITHUB</a>
+<a href="https://github.com/Dreamy-Jatiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <hr style="height:3px;border-width:0;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);">
