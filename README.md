@@ -59,13 +59,6 @@
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Dreamy-Jatiya&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=false&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Dreamy-Jatiya&theme=dark&hide_border=false](https://streak-stats.demolab.com/?user=Dreamy-Jatiya&theme=dark&hide_border=false" alt="stats" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dreamy-Jatiya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top langs" />
-</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
