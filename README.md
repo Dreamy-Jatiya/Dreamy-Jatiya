@@ -1,16 +1,99 @@
-## Hi there 👋
+<b><h1 align="center">Hi there 👋 , I am Dreamy Jatiya </h1></b>
 
-<!--
-**Dreamy-Jatiya/Dreamy-Jatiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <b>
+    Computer Science Student | 💻 Software Development Enthusiast | 🚀 Problem Solver
+  </b>
+</p>
 
-Here are some ideas to get you started:
+<hr style="height:3px;border-width:0;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Science student passionate about *software development, problem solving, and technology*
+- 🧠 Interested in *Artificial Intelligence, Data Structures & Algorithms, and Cybersecurity*
+- 🌱 Currently strengthening my skills in *Java, C, Python, SQL, and Web Development*
+- 💡 I enjoy understanding the logic behind solutions and writing *clean, efficient code*
+- 🚀 Continuously learning through *projects, experimentation, and hands-on practice*
+
+##
+
+<hr style="height:3px;border-width:0;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);">
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### ⚛️ Technologies & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<hr style="height:3px;border-width:0;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);">
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dreamy-Jatiya&show_icons=true&theme=tokyonight&hide_border=true" alt="Dreamy's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamy-Jatiya&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<hr style="height:3px;border-width:0;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);">
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamy-Jatiya&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" 
+    alt="Dreamy's Contribution Graph"
+  />
+</p>
+
+<hr style="height:3px;border-width:0;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);">
+
+## 💡 Engineering Philosophy
+
+> "Languages change. Frameworks evolve.  
+> The ability to learn, adapt, and solve problems never goes out of style."
+
+I believe in **learning by building**, understanding the fundamentals, and turning ideas into practical solutions.
+
+🚀 **Learn • Build • Solve • Improve**
+
+
+<hr style="height:3px;border-width:0;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);">
+
+## 🌐 Let's Connect
+
+LinkedIn
+<a href="www.linkedin.com/in/dreamy-jatiya-9a5a453a7" target="_blank">LINKEDIN</a>
+
+GitHub
+<a href="https://github.com/Dreamy-Jatiya" target="_blank">GITHUB</a>
+
+<hr style="height:3px;border-width:0;background:linear-gradient(90deg,red,orange,yellow,green,cyan,blue,purple);">
