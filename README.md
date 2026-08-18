@@ -59,8 +59,7 @@
 </p>
 
 <div align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dreamy-Jatiya&theme=tokyonight&hide_border=true&background=0D1117" alt="Dreamy's GitHub streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Dreamy-Jatiya&theme=tokyonight&hide_border=true&background=0D1117" alt="Dreamy's GitHub Streak" />
 </div>
 <br />
 
