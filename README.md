@@ -53,12 +53,16 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats & Metrics
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Dreamy-Jatiya&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=false&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 
+<div align="center">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dreamy-Jatiya&theme=tokyonight&hide_border=true&background=0D1117" alt="Dreamy's GitHub streak" />
+</div>
+<br />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
