@@ -55,6 +55,10 @@
 
 ## 📊 GitHub Stats & Metrics
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dreamy-Jatiya&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="profile views"/>
+</p>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Dreamy-Jatiya&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=false&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 
