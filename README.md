@@ -69,8 +69,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamy-Jatiya&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" 
-    alt="Dreamy's Contribution Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamy-Jatiya&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true"
   />
 </p>
 
