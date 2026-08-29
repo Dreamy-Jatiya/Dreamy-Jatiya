@@ -69,16 +69,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamy-Jatiya&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true"
-  />
-</p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
-
 ## 💡 Engineering Philosophy
 
 > "Languages change. Frameworks evolve.  
