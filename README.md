@@ -5,7 +5,7 @@
   </b>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ## 👨‍💻 About Me
 
@@ -17,7 +17,7 @@
 
 ##
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ## 🛠️ Tech Stack
 
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ## 📊 GitHub Stats & Metrics
 <p align="center">
@@ -67,7 +67,7 @@
 </div>
 <br />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ## 💡 Engineering Philosophy
 
@@ -79,7 +79,7 @@ I believe in **learning by building**, understanding the fundamentals, and turni
 🚀 **Learn • Build • Solve • Improve**
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px"/>
+<hr style="height:2px;border:none;color:#38BDF8;background-color:#38BDF8;" />
 
 ## 🌐 Let's Connect
 
