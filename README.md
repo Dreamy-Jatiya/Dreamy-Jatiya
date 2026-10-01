@@ -1,4 +1,4 @@
-<b><h1 align="center">Hi there 👋 , I am Dreamy Jatiya </h1></b>
+<b><h1 align="center">Hello there 👋 , I am Dreamy Jatiya </h1></b>
 
 <p align="center"> <b>
     Computer Science Student | 💻 Software Development Enthusiast | 🚀 Problem Solver
